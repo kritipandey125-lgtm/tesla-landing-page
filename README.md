@@ -2,7 +2,7 @@
 
 A modern and responsive Tesla-inspired landing page built using HTML, CSS, and JavaScript. The project showcases a sleek user interface, smooth animations, and an engaging user experience inspired by Tesla's branding and design philosophy.
 
-## 🔥 Features
+ 🔥 Features
 
 * Responsive design for desktop and mobile devices
 * Modern dark-themed UI
