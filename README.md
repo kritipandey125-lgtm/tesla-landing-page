@@ -1,4 +1,4 @@
-# Tesla Landing Page 🚗
+Tesla Landing Page 🚗
 
 A modern and responsive Tesla-inspired landing page built using HTML, CSS, and JavaScript. The project showcases a sleek user interface, smooth animations, and an engaging user experience inspired by Tesla's branding and design philosophy.
 
