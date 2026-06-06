@@ -18,14 +18,6 @@ A modern and responsive Tesla-inspired landing page built using HTML, CSS, and J
 * CSS3
 * JavaScript (ES6)
 
-## 📸 Preview
-
-Add screenshots of the landing page here.
-
-### Home Page
-
-![Tesla Landing Page Screenshot](screenshot.png)
-
 ## 🚀 Getting Started
 
 ### Clone the Repository
